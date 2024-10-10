@@ -25,4 +25,4 @@ jobs:
         run: mvn clean install # Xây dựng dự án Maven
 
       - name: Run Selenium Tests
-        run: mvn test -Dsurefire.suiteXmlFiles=testng.xml
+        run: mvn clean test -Dsurefire.suiteXmlFiles=testng.xml
