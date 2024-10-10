@@ -24,5 +24,6 @@ jobs:
       - name: Build with Maven
         run: mvn clean install # Xây dựng dự án Maven
 
-      - name: Run Selenium Tests
+      - name: Run Selenium tests with TestNG
         run: mvn clean test -Dsurefire.suiteXmlFiles=testng.xml
+        shell: cmd
