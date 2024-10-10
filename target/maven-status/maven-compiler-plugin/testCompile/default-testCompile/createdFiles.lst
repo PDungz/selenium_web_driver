@@ -1,0 +1,5 @@
+selenium_webdriver\HandlePopupsTest.class
+selenium_webdriver\DynamicControlsTest.class
+selenium_webdriver\DragAndDropTest.class
+selenium_webdriver\IFrameTest.class
+selenium_webdriver\WindowHandlesTest.class

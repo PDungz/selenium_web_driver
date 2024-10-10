@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T09:19:37 ICT" name="Selenium Test Suite" finished-at="2024-10-10T09:20:09 ICT" duration-ms="32260">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T09:19:37 ICT" name="Test Selenium" finished-at="2024-10-10T09:20:09 ICT" duration-ms="32260">
+      <class name="selenium_webdriver.DragAndDropTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium_webdriver.DragAndDropTest@2145b572]" started-at="2024-10-10T09:19:43 ICT" name="setUp" finished-at="2024-10-10T09:19:48 ICT" duration-ms="4785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDragAndDrop()[pri:0, instance:selenium_webdriver.DragAndDropTest@2145b572]" started-at="2024-10-10T09:19:48 ICT" name="testDragAndDrop" finished-at="2024-10-10T09:19:48 ICT" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragAndDrop -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium_webdriver.DragAndDropTest@2145b572]" started-at="2024-10-10T09:19:48 ICT" name="tearDown" finished-at="2024-10-10T09:19:49 ICT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium_webdriver.DragAndDropTest -->
+      <class name="selenium_webdriver.IFrameTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium_webdriver.IFrameTest@72f926e6]" started-at="2024-10-10T09:20:00 ICT" name="setUp" finished-at="2024-10-10T09:20:04 ICT" duration-ms="4839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testIFrame()[pri:0, instance:selenium_webdriver.IFrameTest@72f926e6]" started-at="2024-10-10T09:20:04 ICT" name="testIFrame" finished-at="2024-10-10T09:20:05 ICT" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIFrame -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium_webdriver.IFrameTest@72f926e6]" started-at="2024-10-10T09:20:05 ICT" name="tearDown" finished-at="2024-10-10T09:20:05 ICT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium_webdriver.IFrameTest -->
+      <class name="selenium_webdriver.HandlePopupsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium_webdriver.HandlePopupsTest@3911c2a7]" started-at="2024-10-10T09:19:37 ICT" name="setUp" finished-at="2024-10-10T09:19:43 ICT" duration-ms="6216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testJavaScriptAlerts()[pri:0, instance:selenium_webdriver.HandlePopupsTest@3911c2a7]" started-at="2024-10-10T09:19:43 ICT" name="testJavaScriptAlerts" finished-at="2024-10-10T09:19:43 ICT" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJavaScriptAlerts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium_webdriver.HandlePopupsTest@3911c2a7]" started-at="2024-10-10T09:20:09 ICT" name="tearDown" finished-at="2024-10-10T09:20:09 ICT" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium_webdriver.HandlePopupsTest -->
+      <class name="selenium_webdriver.DynamicControlsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium_webdriver.DynamicControlsTest@39529185]" started-at="2024-10-10T09:19:49 ICT" name="setUp" finished-at="2024-10-10T09:19:53 ICT" duration-ms="4578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDynamicControls()[pri:0, instance:selenium_webdriver.DynamicControlsTest@39529185]" started-at="2024-10-10T09:19:53 ICT" name="testDynamicControls" finished-at="2024-10-10T09:19:59 ICT" duration-ms="6363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicControls -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium_webdriver.DynamicControlsTest@39529185]" started-at="2024-10-10T09:19:59 ICT" name="tearDown" finished-at="2024-10-10T09:20:00 ICT" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium_webdriver.DynamicControlsTest -->
+      <class name="selenium_webdriver.WindowHandlesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium_webdriver.WindowHandlesTest@3daa422a]" started-at="2024-10-10T09:20:05 ICT" name="setUp" finished-at="2024-10-10T09:20:08 ICT" duration-ms="3600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testWindowHandles()[pri:0, instance:selenium_webdriver.WindowHandlesTest@3daa422a]" started-at="2024-10-10T09:20:08 ICT" name="testWindowHandles" finished-at="2024-10-10T09:20:09 ICT" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWindowHandles -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium_webdriver.WindowHandlesTest@3daa422a]" started-at="2024-10-10T09:20:09 ICT" name="tearDown" finished-at="2024-10-10T09:20:09 ICT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium_webdriver.WindowHandlesTest -->
+    </test> <!-- Test Selenium -->
+  </suite> <!-- Selenium Test Suite -->
+</testng-results>
